@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on small project on MERN Stack.<br>I'm looking on to collaborate on some new and challenging ideas and projects<br>I'm looking for help in the domain of Open Source contribution<br>I'm currently learning MERN and Web 3.0 on Ethereum blockchain.<br>Ask me about Web, React.js, Full-stack development.<br>Fun Fact, I tend to procrastinate but also complete my projects on time *engineering traits
+I'm currently working on MERN Stack.<br>I'm looking on to collaborate on some new and challenging ideas and projects<br>I'm looking for help in the domain of Open Source contribution<br>I'm currently learning MERN and Web 3.0 on Ethereum blockchain.<br>Ask me about Web, React.js, Full-stack development.<br>Fun Fact, I tend to procrastinate but also complete my projects on time *engineering traits
 
 
 ## 🌐 Socials:
