@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working as a Software Developer.<br>- 🌱 I’m currently learning about DevOps, and generative AI. <br>- 👯 I’m looking to collaborate on open-source projects, gen-AI apps.<br>- 💬 Ask me about MERN, Postgres, Docker, AWS.<br>- 📫 How to reach me mk4664348@gmail.com<br>- ⚡ Fun fact, I can talk about football for hours!!
+🔭 I’m currently working as a Software Developer.<br>🌱 I’m currently learning about DevOps, and generative AI. <br>👯 I’m looking to collaborate on open-source projects, gen-AI apps.<br>💬 Ask me about MERN, Postgres, Docker, AWS.<br>📫 How to reach me mk4664348@gmail.com<br>⚡ Fun fact, I can talk about football for hours!!
 
 
 ## 🌐 Socials:
